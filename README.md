@@ -1,10 +1,12 @@
 # SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing
 
-> **Supplementary material** for the Interspeech 2026 paper *"SpAArSIST:
-> Sparsified AASIST for Efficient and Reliable Anti-Spoofing"* (Firc, Staněk, Lička, Malinka, Perešíni;
-> Security@FIT; Brno University of Technology). This repository accompanies the
-> publication and provides the reference implementation, training, and
-> evaluation code.
+> **Supplementary material** for the Interspeech 2026 paper
+> [*"SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing"*](https://arxiv.org/abs/2606.11674)
+> (Firc, Staněk, Lička, Malinka, Perešíni; Security@FIT; Brno University of
+> Technology). This repository accompanies the publication and provides the
+> reference implementation, training, and evaluation code.
+>
+> 📄 Paper: https://arxiv.org/abs/2606.11674
 
 Reference implementation for **SpAArSIST**, a deployment-oriented refinement of
 the AASIST graph-pooling backend for SSL-based audio anti-spoofing.
