@@ -1,8 +1,8 @@
 # SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing
 
 > **Supplementary material** for the Interspeech 2026 paper *"SpAArSIST:
-> Sparsified AASIST for Efficient and Reliable Anti-Spoofing"* (Firc et al.,
-> Security@FIT, Brno University of Technology). This repository accompanies the
+> Sparsified AASIST for Efficient and Reliable Anti-Spoofing"* (Firc, Staněk, Lička, Malinka, Perešíni;
+> Security@FIT; Brno University of Technology). This repository accompanies the
 > publication and provides the reference implementation, training, and
 > evaluation code.
 
