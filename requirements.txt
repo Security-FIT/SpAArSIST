@@ -1,0 +1,11 @@
+# Install PyTorch + torchaudio for your platform first (see https://pytorch.org/).
+# Tested with Python 3.10, torch >= 2.2, torchaudio matching torch.
+torch>=2.2.0
+torchaudio>=2.2.0
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+audiomentations
+soundfile
